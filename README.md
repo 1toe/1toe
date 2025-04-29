@@ -25,4 +25,6 @@
       </td>
     </tr>
   </table>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1toe)](https://git.io/streak-stats)
 </div>
