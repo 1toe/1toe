@@ -20,8 +20,5 @@
       <td>
         <img src="https://streak-stats.demolab.com?user=1toe&theme=calm&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Stats"/>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1toe&layout=compact&theme=dark" alt="Top Langs"/>
-      </td>
     </tr>
   </table>
