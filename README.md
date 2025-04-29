@@ -25,5 +25,3 @@
       </td>
     </tr>
   </table>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1toe&theme=vue&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
