@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=1toe&show_icons=true&theme=dark" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=1toe&show_icons=true&theme=dark&hide=contribs,prs" alt="GitHub Stats"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1toe&layout=compact&theme=dark" alt="Top Langs"/>
