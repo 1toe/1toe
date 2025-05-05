@@ -1,0 +1,122 @@
+[languages]
+
+name = "Languages"
+
+high = [
+    "Python",
+    "JavaScript",
+    "Java"
+]
+
+low = [
+    "Ruby",
+    "PHP",
+    "Scala",
+    "C",
+    "C++"
+]
+
+
+[databases]
+
+name = "Databases"
+
+high = [
+    "SQLite",
+    "PostgreSQL"
+]
+
+low = [
+    "MariaDB",
+    "Snowflake",
+    "Oracle",
+    "Cockroach"
+]
+
+
+[style]
+
+name = "Style"
+
+high = [
+    "CSS3",
+    "Sass"
+]
+
+low = [
+    "Tailwind CSS",
+    "Bootstrap"
+]
+
+
+[frontend]
+
+name = "Frontend"
+
+high = [
+    "React", "Alpine.js", "Eleventy"
+]
+
+low = [
+    "Vue.js", "Svelte"
+]
+
+
+[backend]
+
+name = "Backend"
+
+high = [
+    "Flask",
+    "Spring Boot"
+]
+
+low = [
+    "Django",
+    "Ruby on Rails"
+]
+
+
+[sourcecontrol]
+
+name = "Source Control"
+
+high = [
+    "Git",
+    "GitKraken",
+    "GitHub"
+]
+
+low = [
+    "GitLab",
+    "Subversion"
+]
+
+
+[markup]
+
+name = "Markup"
+
+high = [
+    "HTML5",
+    "Markdown",
+    "Typst"
+]
+
+low = [
+    "LaTeX"
+]
+
+
+[engines]
+
+name = "Engines"
+
+high = [
+    "Godot",
+    "Gamemaker"
+]
+
+low = [
+    "Unity"
+]
