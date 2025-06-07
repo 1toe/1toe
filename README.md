@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<picture><img height=16 align="center" src="./icons/us.svg" alt="US flag"/></picture> English (<i>B2</i>) |
+<picture><img height=16 align="center" src="./icons/us.svg" alt="US flag"/></picture> English |
 <picture><img width=16 align="center" src="./icons/cl.svg" alt="CL flag" /></picture> Spanish (<i>native</i>)
 </p>
 
