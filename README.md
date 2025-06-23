@@ -8,14 +8,10 @@
 🤖 AI Agente Developer, 🛠️ Freelancer, 🌐 Web/App Development, ↔️ Promp Engineering.
 </p>
 
-<p align="center">
-<picture><img height=16 align="center" src="./icons/us.svg" alt="US flag"/></picture> English |
-<picture><img width=16 align="center" src="./icons/cl.svg" alt="CL flag" /></picture> Spanish (<i>native</i>)
-</p>
 
 <p align="center">
-📚 <a href="https://www.goodreads.com/user/show/168644258-walter" target="_blank">Reading</a> |
-🎶 <a href="http://last.fm/user/Bltr1/">Listening </a>
+📚 <a href="https://www.goodreads.com/user/show/168644258-walter" target="_blank">Good reads</a> |
+🎶 <a href="http://last.fm/user/Bltr1/">Last.fm </a>
 </p>
 
 <h2 align="center">Stats</h2>
