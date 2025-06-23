@@ -2,12 +2,10 @@
     
 
 <p align="center">
-💻 Software Developer - CS student
-<a href="https://www.duoc.cl/escuela/informatica-telecomunicaciones/" target="_blank">@Duoc UC</a>
-</p>
+💻 Software Developer - 🤖Enthusiastic about the new industrial wave
 
 <p align="center">
-🤖 AI Agente Developer, 🛠️ Freelancer, 🌐 Web/App Development
+🤖 AI Agente Developer, 🛠️ Freelancer, 🌐 Web/App Development, ↔️ Promp Engineering.
 </p>
 
 <p align="center">
