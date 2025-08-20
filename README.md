@@ -2,10 +2,10 @@
     
 
 <p align="center">
-💻 Software Developer - 🤖Enthusiastic about the new industrial wave
+💻 Software Developer
 
 <p align="center">
-🤖 AI Agente Developer, 🛠️ Freelancer, 🌐 Web/App Development, ↔️ Promp Engineering.
+AI Agents Developer, Freelancer - Web/App Development, Promp Engineering.
 </p>
 
 
