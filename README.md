@@ -2,10 +2,9 @@
     
 
 <p align="center">
-💻 Software Developer
-
+Walter - Software Developer
 <p align="center">
-AI Agents Developer, Freelancer - Web/App Development, Promp Engineering.
+    FullStack developer, TypeScript and LLMs enjoyer.
 </p>
 
 
