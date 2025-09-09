@@ -5,6 +5,7 @@
 Walter - Software Developer
 <p align="center">
     FullStack developer, TypeScript and LLMs enjoyer.
+    🤖 Building IA tools with LLMs
 </p>
 
 
