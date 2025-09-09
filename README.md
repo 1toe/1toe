@@ -5,9 +5,10 @@
 Walter - Software Developer
 <p align="center">
     FullStack developer, TypeScript and LLMs enjoyer.
+</p>
+<p>
     🤖 Building IA tools with LLMs
 </p>
-
 
 <p align="center">
 📚 <a href="https://www.goodreads.com/user/show/168644258-walter" target="_blank">Good reads</a> |
