@@ -1,13 +1,7 @@
 <h2 align="center"> About </h2>
-    
 
 <p align="center">
-Walter - Software Developer
-<p align="center">
-    FullStack developer, TypeScript and LLMs enjoyer.
-</p>
-<p>
-    🤖 Building IA tools with LLMs
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Walter%20🧘‍♂️%20|%20Full%20Stack%20Developer%20|%20LLMs ❤️%20&width=750&height=100" alt="SVG Banner">
 </p>
 
 <p align="center">
@@ -16,20 +10,18 @@ Walter - Software Developer
 </p>
 
 <h2 align="center">Stats</h2>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=1toe&theme=catppuccin-mocha&hide_border=true&border_radius=10&locale=es&mode=weekly&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true&currStreakNum=a6e3a1&ring=a6e3a1&fire=f38ba8&currStreakLabel=cba6f7&sideLabels=89b4fa&sideNums=94e2d5&dates=bac2de"
-      media="(prefers-color-scheme: dark)"
-    />
-  </a>
-</div>
-<!---
-<h2 align="center">🛠️ Tech Stack</h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
--->
 
-<!---
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="1toe's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1toe&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF" height="200px"/></a>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="1toe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1toe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&hide=Python" height="200px"/></a>
+</div>
+
+<!--
+<h2 align="center">Tech Stack</h2>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 <table align="center">
     <thead>
         <tr>
@@ -44,11 +36,13 @@ Walter - Software Developer
             <td align="center">
                 <img alt="Python" title="Python" height="32" src="./icons/python.svg" />
                 <img alt="JavaScript" title="JavaScript" height="32" src="./icons/javascript.svg" />
-                <img alt="Java" title="Java" height="32" src="./icons/java.svg" />
-                <img alt="AdonisJS" title="AdonisJS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
             </td>
             <td align="center">
+                <img alt="Ruby" title="Ruby" height="32" src="./icons/ruby.svg" />
                 <img alt="PHP" title="PHP" height="32" src="./icons/php.svg" />
+                <img alt="Scala" title="Scala" height="32" src="./icons/scala.svg" />
+                <img alt="C" title="C" height="32" src="./icons/c.svg" />
+                <img alt="C++" title="C++" height="32" src="./icons/cplusplus.svg" />
             </td>
         </tr>
         <tr>
@@ -58,9 +52,8 @@ Walter - Software Developer
                 <img alt="PostgreSQL" title="PostgreSQL" height="32" src="./icons/postgresql.svg" />
             </td>
             <td align="center">
+                <img alt="MariaDB" title="MariaDB" height="32" src="./icons/mariadb.svg" />
                 <img alt="Oracle" title="Oracle" height="32" src="./icons/oracle.svg" />
-                <img alt="SQLite" title="SQLite" height="32" src="./icons/sqlite.svg" />
-                <img alt="PostgreSQL" title="PostgreSQL" height="32" src="./icons/postgresql.svg" />
             </td>
         </tr>
         <tr>
@@ -77,9 +70,9 @@ Walter - Software Developer
         <tr>
             <td align="right"><strong>Frontend</strong></td>
             <td align="center">
-                <img alt="Angular" title="Angular" height="32" src="./icons/angular.svg" />
                 <img alt="React" title="React" height="32" src="./icons/react.svg" />
-                <img alt="Ionic" title="Ionic" height="32" src="./icons/ionic.svg" />
+                <img alt="Alpine.js" title="Alpine.js" height="32" src="./icons/alpinedotjs.svg" />
+                <img alt="Eleventy" title="Eleventy" height="32" src="./icons/eleventy.svg" />
             </td>
             <td align="center">
                 <img alt="Vue.js" title="Vue.js" height="32" src="./icons/vuedotjs.svg" />
@@ -101,7 +94,6 @@ Walter - Software Developer
             <td align="right"><strong>Source Control</strong></td>
             <td align="center">
                 <img alt="Git" title="Git" height="32" src="./icons/git.svg" />
-                <img alt="GitKraken" title="GitKraken" height="32" src="./icons/gitkraken.svg" />
                 <img alt="GitHub" title="GitHub" height="32" src="./icons/github.svg" />
             </td>
             <td align="center">
@@ -114,25 +106,15 @@ Walter - Software Developer
             <td align="center">
                 <img alt="HTML5" title="HTML5" height="32" src="./icons/html5.svg" />
                 <img alt="Markdown" title="Markdown" height="32" src="./icons/markdown.svg" />
-                <img alt="Typst" title="Typst" height="32" src="./icons/typst.svg" />
             </td>
             <td align="center">
                 <img alt="LaTeX" title="LaTeX" height="32" src="./icons/latex.svg" />
             </td>
         </tr>
         <tr>
-            <td align="right"><strong>Engines</strong></td>
-            <td align="center">
-                <img alt="Godot" title="Godot" height="32" src="./icons/godot.svg" />
-                <img alt="Gamemaker" title="Gamemaker" height="32" src="./icons/gamemaker.svg" />
-            </td>
-            <td align="center">
-                <img alt="Unity" title="Unity" height="32" src="./icons/unity.svg" />
-            </td>
         </tr>
     </tbody>
 </table>
--->
 <br/>
 <br/>
 </div>
