@@ -1,21 +1,40 @@
-<h2 align="center"> About </h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Walter%20🧘‍♂️%20|%20Full%20Stack%20Developer%20|%20LLMs ❤️%20&width=750&height=100" alt="SVG Banner">
-</p>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Walter%20🧘‍♂️%20|%20Full%20Stack%20Developer%20|%20LLMs%20❤️&width=750&height=100)](https://github.com/Akshay090/svg-banners)
 
+</div>
+
+# About Me
+
+<div align="center">
+
+#### I'm Walter a.k.a **1toe**. 
+
+I'm a full stack developer with a passion for building web applications and working with large language models. Always eager to learn new technologies and improve my skills. Building IA tools with LLMs and prompt engineering is my current focus.
+
+</div>
+
+
+# My Bookshelf and Music:
 <p align="center">
 📚 <a href="https://www.goodreads.com/user/show/168644258-walter" target="_blank">Good reads</a> |
 🎶 <a href="http://last.fm/user/Bltr1/">Last.fm </a>
 </p>
 
-<h2 align="center">Stats</h2>
+# GitHub Stats
 
-<div align="center">
-
+<details>
+<summary>Ver estadísticas</summary>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="1toe's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1toe&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF" height="200px"/></a>
-<div align="center">
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="1toe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1toe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF" height="200px"/></a>
+</details>
+
+<div align="center">
+
+> "Todo está muchas veces, catorce veces, pero dos cosas hay en el mundo que parecen estar una sola vez: arriba, el intrincado Sol; abajo, Asterión."
+
 </div>
 
 <!--
