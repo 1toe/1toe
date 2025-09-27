@@ -29,28 +29,30 @@ I'm a full stack developer with a passion for building web applications and work
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="margin: 0 10px;">
-  <img alt="Mis top languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1toe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF" 
-       height="200px" width="45%"/>
-</a>
-
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dracula&preferLogin=false&Ring=4471DD&Title=488FCF" style="margin: 0 10px;">
-  <img alt="Mi stats" 
-       src="https://awesome-github-stats.azurewebsites.net/user-stats/1toe?cardType=level-alternate&theme=dracula&preferLogin=false&Ring=4471DD&Title=488FCF" 
-       height="200px" width="45%"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Mis top languages" 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=1toe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF" 
+             height="200px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="1toe's Github Stats" 
+             src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1toe&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF" 
+             height="200px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 </details>
 
-<div align="center">
-
-> "Todo está muchas veces, catorce veces, pero dos cosas hay en el mundo que parecen estar una sola vez: arriba, el intrincado Sol; abajo, Asterión."
-
-</div>
 
 
 
