@@ -4,7 +4,7 @@
 
 </div>
 
-# About Me
+## About Me
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Full stack developer with a passion for building web applications and working wi
 🎶 <a href="http://last.fm/user/Bltr1/">Last.fm </a>
 </p>
 
-# GitHub Stats
+## GitHub Stats
 
 <details>
 <summary>👀</summary>
