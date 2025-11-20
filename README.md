@@ -8,14 +8,14 @@
 
 <div align="center">
 
-#### I'm Walter a.k.a **1toe**. 
+#### Hi there! I'm Walter.
 
-I'm a full stack developer with a passion for building web applications and working with large language models. Always eager to learn new technologies and improve my skills. Building IA tools with LLMs and prompt engineering is my current focus.
+Full stack developer with a passion for building web applications and working with large language models. Always eager to learn new technologies and improve my skills. 
 
 </div>
 
 
-# My Bookshelf and Music:
+### Bookshelf and Music:
 <p align="center">
 📚 <a href="https://www.goodreads.com/user/show/168644258-walter" target="_blank">Good reads</a> |
 🎶 <a href="http://last.fm/user/Bltr1/">Last.fm </a>
@@ -24,7 +24,7 @@ I'm a full stack developer with a passion for building web applications and work
 # GitHub Stats
 
 <details>
-<summary>Ver estadísticas</summary>
+<summary>👀</summary>
 <br>
 
 <div align="center">
