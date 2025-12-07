@@ -33,13 +33,6 @@ Full stack developer with a passion for building web applications and working wi
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Mis top languages" 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=1toe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF&hide=python,shell,elixir" 
-             height="200px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="1toe's Github Stats" 
              src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=1toe&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=82AAFF&icon_color=82AAFF" 
              height="200px"/>
