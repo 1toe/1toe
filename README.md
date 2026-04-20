@@ -1,7 +1,6 @@
 <div align="center">
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=🧘‍♂️%20|%20LLMs%20❤️&width=350&height=100)
-
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=%E6%83%85%E7%86%B1%20%E2%80%94%20%E5%BC%B7%E3%81%95%20%E2%80%94%20%E6%84%9F%E7%9F%A5%E3%80%82&width=350&height=97)
 </div>
 
 ## About Me
@@ -11,8 +10,6 @@
 Software Developer
 
 Building web and hybrid applications, exploring LLMs, and applying AI to enhance solutions.
-
-⟨情熱 — 強さ — 感知。⟩
 
 </div>
 
